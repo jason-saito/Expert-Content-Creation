@@ -13,6 +13,6 @@
 
 
 # Here are how the AI-Generated Presentations were created:
-* [AI-Generation Presentation for Basketball](basketball/AI_Bball_Process.ipynb) 
+* [AI-Generation Presentation for Basketball](bball/AI_Bball_Process.ipynb) 
 * [AI-Generation Presentation for Track](track/track_presentation.ipynb)
 * [AI-Generation Presentation for Consulting](consulting/consulting_presentation.ipynb)
